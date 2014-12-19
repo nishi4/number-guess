@@ -12,6 +12,6 @@
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.numberguess.App"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="numberGuess"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="number-guess"/>
 <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
 </launchConfiguration>
