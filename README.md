@@ -1,4 +1,4 @@
-number-guess
-============
+Number Guess Game
+===========
 
-Number Guess game written in Java
+A Number Guess game written in Java
